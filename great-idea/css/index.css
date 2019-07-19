@@ -289,3 +289,9 @@ li {
 .serviceFOOTER {
 	margin-top: 50px;
 }
+.visionIMG {
+	padding: 50px;
+	margin: 20px;
+	display: flex;
+	justify-content: center;
+}
